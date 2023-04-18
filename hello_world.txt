@@ -1,3 +1,5 @@
 Just adding some text here for fun.
 Doesn't do anything but take up space.
 I'm practically a developer now!
+
+I'm now adding one more line so I can try going through the steps of a commit by memory.
